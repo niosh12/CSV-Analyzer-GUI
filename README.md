@@ -76,11 +76,12 @@ For code access or collaboration, feel free to contact me directly.
 
 **Ayaan Nadeem**  
 Python Developer | Desktop Apps, Automation & AI/ML Tools  
- 📫 [Email](mailto:ayaannadeem1205@gmail.com)
+ 📫 [Email](mailto:ayaanbinnadeem1205@gmail.com)
 
 ---
 ##  🛡️ License
 **Demo Only** — All rights reserved.
+
 
 
 

